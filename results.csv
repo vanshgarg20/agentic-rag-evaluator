@@ -1,0 +1,16 @@
+query,true_type,predicted_type,correct_routing,score
+What is AI regulation?,factual,factual,True,0.935
+What is GDPR?,factual,factual,True,0.792
+What is AI governance?,factual,factual,True,0.82
+Define risk-based AI,factual,factual,True,0.811
+Purpose of AI regulation?,factual,factual,True,0.342
+Compare US and EU AI regulation,synthesis,synthesis,True,0.573
+Different AI regulation approaches globally,synthesis,factual,False,0.416
+Explain AI risk frameworks,synthesis,synthesis,True,0.577
+Compare governance models in AI,synthesis,synthesis,True,0.29
+How countries regulate AI differently?,synthesis,factual,False,0.398
+What is India's AI law?,out_of_scope,out_of_scope,True,0.34
+Explain blockchain law,out_of_scope,out_of_scope,True,0.34
+What is Tesla AI policy?,out_of_scope,out_of_scope,True,0.34
+Quantum computing regulation?,out_of_scope,out_of_scope,True,0.34
+AI laws in Africa?,out_of_scope,out_of_scope,True,0.34
